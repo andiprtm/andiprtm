@@ -6,7 +6,7 @@
 
 ### About Me 💫
 
-🎓 Education – 7th-semester Informatics student at Telkom University Surabaya<br>💻 Expertise – Mobile & Web Developer | AI Enthusiast<br>🏆 Achievement – 2nd Place Winner in IT Convert Software Development Competition<br>
+🎓 Education – 8th-semester Informatics student at Telkom University Surabaya<br>💻 Expertise – Mobile & Web Developer | AI Enthusiast<br>🏆 Achievement – 2nd Place Winner in IT Convert Software Development Competition<br>
 
 <div align="center">
   
