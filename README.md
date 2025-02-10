@@ -1,9 +1,7 @@
-# 💫 About Me
-🎓 Education – 7th-semester Informatics student at Telkom University Surabaya<br>💻 Expertise – Mobile & Web Developer | AI Enthusiast<br>🏆 Achievement – 2nd Place Winner in IT Convert Software Development Competition<br><br>
-
+# 💫 About Me:
+🎓 Education – 7th-semester Informatics student at Telkom University Surabaya<br>💻 Expertise – Mobile & Web Developer | AI Enthusiast<br>🏆 Achievement – 2nd Place Winner in IT Convert Software Development Competition<br>
 ## 🌟 What I'm Up To
 🔭 Current Projects – Developing AI-driven mobile applications and open-source projects<br>🤝 Collaboration Interests – Android & Web development, AI & machine learning applications<br>🛠️ Need Help With – AI/ML model optimization and cloud computing best practices<br>🌱 Currently Learning – Google Cloud Platform and Large Language Models (LLMs)<br>💬 Topics to Ask Me About – Kotlin, React Native, React.js, Laravel, AI applications, ML models<br>⚡ Fun Fact – Helped secure IDR 140 million in funding for a startup!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andiprtma/) 
